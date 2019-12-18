@@ -1,9 +1,9 @@
 # Ceritaku
 
-##Kami sebagai Owner dari Ceritaku.
+## Kami sebagai Owner dari Ceritaku.
 Ceritaku adalah sebuah aplikasi website yang akan membantu penulis dan pembaca untuk saling berinteraksi melalui cerita dari penulis. 
 
-##Tujuan:
+## Tujuan:
 Menyalurkan aspirasi penulis dalam mengembangkan bakat dan hobinya. Selain itu, sebagai akses untuk menyedikan cerita yang dibutuhkan oleh para pembaca.
 
 ## Kelompok 5
