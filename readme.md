@@ -1,5 +1,6 @@
-# Ceritaku
+<img src="https://github.com/vavcupcake/ceritaku/blob/master/User%20Interface/logo.png?raw=true" width=200px/>  
 
+# Ceritaku
 ## Kami sebagai Owner dari Ceritaku.
 Ceritaku adalah sebuah aplikasi website yang akan membantu penulis dan pembaca untuk saling berinteraksi melalui cerita dari penulis. 
 
